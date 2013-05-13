@@ -1,0 +1,16 @@
+Package: communitree
+Title: Tools for analysing community assembly in a phylogenetic context
+Description: comatree is a package for understanding the process of community assembly 
+    using phylogenetic trees. What you need is a dated phylogenetic tree, or a 
+    distribution of such trees from a Bayesian analysis, that contains all of the species
+    in the assemblage you want to focus on (e.g. all of the birds of New Zealand), and 
+    all of their nearest relatives. Once you have that, you can use communitree to:
+        * Estimate the number and timings of colonistaions of your assemblage
+        * Find out which species are derived from each colonisation event
+        * Estimate the number and timings of speciation events in your assemblage
+        * Plot community assembly trees
+        * Plot distributions of rates of colonisation and speciation in your assemblage
+Version: 0.1
+Author: Rob Lanfear <rob.lanfear@gmail.com>
+Maintainer: Rob Lanfear <rob.lanfear@gmail.com>
+License: CC0
